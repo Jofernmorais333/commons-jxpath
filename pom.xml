@@ -159,7 +159,7 @@
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>jsp-api</artifactId>
-      <version>2.0</version>
+      <version>2.0.public_draft</version>
       <scope>provided</scope>
       <optional>true</optional>
     </dependency>
@@ -331,7 +331,7 @@
       <id>dmitri</id>
       <name>Dmitri Plotnikov</name>
       <email>dmitri@apache.org</email>
-      <organization />
+      <organization/>
     </developer>
     <developer>
       <id>craigmcc</id>
